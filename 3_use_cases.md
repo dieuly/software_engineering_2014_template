@@ -1,6 +1,6 @@
 ### This will be the third chapter, describing Use cases
 
-* Define the user groups / actors
+* Define the user groups / actors 
 * Use case diagram showing the actors and primary use cases
 * Main use cases described more in detail, based on a template
   * a template: initial state, normal flow, end state
