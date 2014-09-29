@@ -6,15 +6,15 @@
 
 * Why this project, what was the need for the system?
 Sometimes annoucements for hurry situations are received late, that affects the productivity of working and the big waste of time. The need for the system are :
- +  Location-specific virtual wall
- +  Mobile phone 
+  * Location-specific virtual wall
+  * Mobile phone 
 
 * Overall description of the system
   * What it is
-   ++ It is a note display in moblie phone wherever people go nearby specific location.
+    * It is a note display in moblie phone wherever people go nearby specific location.
   
   * What it is for, what the users can do with it?
-   ++ It is used to display every note/annoucement
-   ++ Teachers, staff and students can be invovled in this system
+    * It is used to display every note/annoucement
+    * Teachers, staff and students can be invovled in this system
    
 
