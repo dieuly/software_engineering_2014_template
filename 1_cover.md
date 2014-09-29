@@ -2,7 +2,7 @@
 
 List here the following details:
 * Project title, name of the product
-Windy Wings
+Flying Note
 * Team name
 Windy
 * Team members
