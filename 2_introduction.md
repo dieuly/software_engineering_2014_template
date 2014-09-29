@@ -1,12 +1,20 @@
 ### This is the chapter introducion
 
 * Describe here the background and motivation for your project
-Here will be very cool application for specific users that we will reveal later on.
-Keep calm and wait till the end 
+
+The idea of this project comes from the need to send and receive the announcement or notes immediately in right time at right place in school involving teachers, staff and students.
+
 * Why this project, what was the need for the system?
-We have to finish this course so we have to do this project huhu
+Sometimes annoucements for hurry situations are received late, that affects the productivity of working and the big waste of time. The need for the system are :
++  Location-specific virtual wall
++  Mobile phone 
+
 * Overall description of the system
   * What it is
-  Unknown in this moment
+  + It is a note display in moblie phone wherever people go nearby specific location.
+  
   * What it is for, what the users can do with it?
-Still unknown but surely it will be super crazy !!!
+  + It is used to display every note/annoucement
+  + Teachers, staff and students can be invovled in this system
+  
+
