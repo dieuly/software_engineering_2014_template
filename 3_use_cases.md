@@ -100,9 +100,20 @@
   </tr>
   <tr>
     <td><strong>End state:</strong></td>
-    <td> When the notes is shown in "New note" section of dashboard</td>
+    <td> When the notes is shown in "New note" section of dashboard in the app</td>
   </tr>
  </table> 
+ 
+  <table>
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+</table> 
 
   * a template: initial state, normal flow, end state
   * a template also tells how a use case can fail
