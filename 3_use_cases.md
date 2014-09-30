@@ -13,6 +13,8 @@
         2. Edit note <br/>
         3. Set up time for note <br/>
     </td>
+  </tr>
+  <tr>
     <td>Students</td>
     <td>1. Create note <br/>
         2. Read note <br/>
