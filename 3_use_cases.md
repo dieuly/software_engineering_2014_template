@@ -92,11 +92,15 @@
     <td><strong>Exceptions</strong></td>
     <td>1. If they go far away from the location when creating the note <br/>
         -> They have to come back to near the location, return to step 1 of initial state <br/>
-        2. If the app is crash <br/>
+        2. If the app is crashed <br/>
         -> They have to return to step 2 of initial state <br/>
         3. If the internet connection is lost <br/>
         -> System will return step 2 of normal flow and inform about internet connection problem <br/>
     </td>
+  </tr>
+  <tr>
+    <td><strong>End state:</strong></td>
+    <td> When the notes is shown in "New note" section of dashboard</td>
   </tr>
  </table> 
 
