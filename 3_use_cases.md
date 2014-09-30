@@ -26,7 +26,7 @@
 
 * Use case diagram showing the actors and primary use cases
 * 
-<img src="SW.jpg" atl="useCaseDia"/>
+<img src="SW.jpg" alt="useCaseDia"/>
 
 * Main use cases described more in detail, based on a template
   * a template: initial state, normal flow, end state
