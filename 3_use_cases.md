@@ -9,15 +9,15 @@
   </tr>
   <tr>
     <td>Teachers and staff</td>
-    <td>The main actors to create announcement or notes to give student immediate information at school</td>
+    <td>The main actors who create announcements or notes to give students immediate information in right time at right place in school</td>
   </tr>
   <tr>
     <td>Students</td>
-    <td> The ones who receive message from teachers and staff whenever they go nearby locations which have created notes</td>
+    <td> The ones who receive message from teachers and staff whenever they go nearby locations which have created notes by the first group</td>
   </tr>
-</table> 
+ </table> 
 
-<table>
+ <table>
   <tr>
     <th>Primary Actors</th>
     <th>Use case</th>
@@ -41,7 +41,7 @@
         6. Log out <br/>
     </td>
   </tr>
-</table> 
+ </table> 
 
 * Use case diagram showing the actors and primary use cases
  
