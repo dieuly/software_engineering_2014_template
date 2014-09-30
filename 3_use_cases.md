@@ -137,6 +137,10 @@
         -> Turn on the notification from the settings, then return to step 2 of initial state <br/>
     </td>
   </tr>
+   <tr>
+    <td><strong>End state:</strong></td>
+    <td>When students finished reading and the notification signal got off  </td>
+  </tr>
 </table> 
 
   
