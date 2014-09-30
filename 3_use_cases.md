@@ -69,8 +69,8 @@
   </tr>
   <tr>
     <td><strong>Normal flow:</strong></td>
-    <td>1. Teachers or staff choose "Create note" bar <br/>
-        2. The app will show two options : "text" or "record" to create note for them <br/>
+    <td>1.  Teachers or staff choose "Create note" bar <br/>
+        2.  The app will show two options : "text" or "record" to create note for them <br/>
         3  a. If "text" is chosen <br/>
         3  a  1. The app will show the format form <br/>
         3  a  2. They will fill title and content fields <br/>
@@ -79,7 +79,7 @@
         3  b  1. Press the "start" button to record their voice <br/>
         3  b  2. Press that button again to stop recording <br/>
         3  b  3. Click "submit" button to ready to delivery the note <br/>
-        4. The app ask if they want to review before delivering their note <br/>
+        4.  The app ask if they want to review before delivering their note <br/>
         5  a. If "review" is chosen <br/>
         5  a  1. The app will show the content again <br/>
         5  b. If "confirm" is chosen <br/>
