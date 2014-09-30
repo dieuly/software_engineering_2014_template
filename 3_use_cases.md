@@ -71,13 +71,13 @@
     <td><strong>Normal flow:</strong></td>
     <td>1. Teachers or staff choose "Create note" bar <br/>
         2. The app will show two options : "text" or "record" to create note for them <br/>
-        3a. If "text" is chosen <br/>
-        3a.1 The app will show the format form <br/>
-        3a.2 They will fill title and content fields <br/>
-        3a.3 Click "submit" button to confirm their note ready to share <br/>
-        3b. If "record" is chosen <br/>
-        3b.1 Press the "start" button to record their voice <br/>
-        3b.2 
+        3 a. If "text" is chosen <br/>
+        3 a. 1 The app will show the format form <br/>
+        3 a. 2 They will fill title and content fields <br/>
+        3 a. 3 Click "submit" button to confirm their note ready to share <br/>
+        3 b. If "record" is chosen <br/>
+        3 b.1 Press the "start" button to record their voice <br/>
+        3 b.2 
    
     </td>
   </tr>
