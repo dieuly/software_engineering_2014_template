@@ -8,12 +8,17 @@
     <th>Use case</th>
   </tr>
   <tr>
-    <td>Teachers</td>
-    <td>1. Create note<br/>
-        2. Set up time<br/>
-
-
-</td>
+    <td>Teachers and staff </td>
+    <td>1. Create note <br/>
+        2. Edit note <br/>
+        3. Set up time for note <br/>
+    </td>
+    <td>Students</td>
+    <td>1. Create note <br/>
+        2. Read note <br/>
+        3. Save note <br/>
+        4. Share note <br/>
+    </td>
   </tr>
 </table> 
 
