@@ -64,9 +64,9 @@
   </tr>
   <tr>
     <td><strong>Initial state:</strong></td>
-    <td>1. Teachers or staff chose their location where they want the note to appear <br/>
-        2. Teachers or staff open the "Flying note" application in their mobile phones <br/>
-        3. Log in by their own accounts</td>
+    <td>1. Teachers or staff chose their location where they want the note to appear. <br/>
+        2. Teachers or staff open the "Flying note" application in their mobile phones. <br/>
+        3. Log in by their own accounts.</td>
   </tr>
   <tr>
     <td><strong>Normal flow:</strong></td>
@@ -106,16 +106,28 @@
  
   <table>
   <tr>
-    <th>Month</th>
-    <th>Savings</th>
+    <td><strong>Use Case ID:</strong></td>
+    <td>2</td>
   </tr>
   <tr>
-    <td>January</td>
-    <td>$100</td>
+    <td><strong>Use Case Name:</strong></td>
+    <td>????</td>
+  </tr>
+  <tr>
+    <td><strong>Actor:</strong></td>
+    <td>Students</td>
+  </tr>
+  <tr>
+    <td><strong>Initial state:</strong></td>
+    <td>1. Students reached the location have created note <br/>
+        2. They will get notification of the new note in that location <br/>
+        3. Log in by their own accounts</td>
+  </tr>
+  <tr>
+    <td><strong>Normal flow:</strong></td>
+    <td>
   </tr>
 </table> 
 
-  * a template: initial state, normal flow, end state
-  * a template also tells how a use case can fail
-  * in addition, you can describe alternative flows of the case
-* Choose one of the use case templates and describe it as a flow chart
+  
+  
