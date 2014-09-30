@@ -33,6 +33,8 @@
 <img src="http://users.metropolia.fi/~dieun/SW.jpg" alt="useCaseDi"/>
 
 * Main use cases described more in detail, based on a template
+
+
   * a template: initial state, normal flow, end state
   * a template also tells how a use case can fail
   * in addition, you can describe alternative flows of the case
