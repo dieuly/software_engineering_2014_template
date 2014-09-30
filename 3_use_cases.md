@@ -9,24 +9,28 @@
   </tr>
   <tr>
     <td>Teachers and staff </td>
-    <td>1. Create note <br/>
-        2. Edit note <br/>
-        3. Set up time for note <br/>
+    <td>1. Log in <br/>
+        2. Create note <br/>
+        3. Edit note <br/>
+        4. Set up time for note <br/>
+        5. Log out <br/>
     </td>
   </tr>
   <tr>
     <td>Students</td>
-    <td>1. Create note <br/>
-        2. Read note <br/>
-        3. Save note <br/>
-        4. Share note <br/>
+    <td>1. Log in <br/>
+        2. Create note <br/>
+        3. Read note <br/>
+        4. Save note <br/>
+        5. Share note <br/>
+        6. Log out <br/>
     </td>
   </tr>
 </table> 
 
 * Use case diagram showing the actors and primary use cases
  
-<img src="http://users.metropolia.fi/~dieun/SW.jpg" alt="useCaseDia"/>
+<img src="http://users.metropolia.fi/~dieun/SW.jpg" alt="useCaseDi"/>
 
 * Main use cases described more in detail, based on a template
   * a template: initial state, normal flow, end state
