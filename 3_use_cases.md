@@ -1,7 +1,12 @@
 ### This will be the third chapter, describing Use cases
 
 * Define the user groups / actors 
- 
+User groups        | Definition |
+Teachers and staff | The main actors to create announcement or notes to give student immediate information at school |
+Students           | The ones who receive message from teachers and staff whenever they go nearby locations which have created notes |
+
+
+
  <table>
   <tr>
     <th>Primary Actors</th>
