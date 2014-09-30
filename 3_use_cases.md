@@ -24,16 +24,10 @@
   </tr>
 </table> 
 
-
-
-
-
-
-
-
-
-
 * Use case diagram showing the actors and primary use cases
+* 
+<img src="SW.jpg" atl="useCaseDia"/>
+
 * Main use cases described more in detail, based on a template
   * a template: initial state, normal flow, end state
   * a template also tells how a use case can fail
