@@ -25,7 +25,7 @@
 </table> 
 
 * Use case diagram showing the actors and primary use cases
-* 
+ 
 <img src="http://users.metropolia.fi/~dieun/SW.jpg" alt="useCaseDia"/>
 
 * Main use cases described more in detail, based on a template
