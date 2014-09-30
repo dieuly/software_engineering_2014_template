@@ -64,27 +64,38 @@
   </tr>
   <tr>
     <td><strong>Initial state:</strong></td>
-    <td>1. Teachers or staff open the "Flying note" application in their mobile phones <br/>
-        2. Log in by their own accounts</td>
+    <td>1. Teachers or staff chose their location where they want the note to appear <br/>
+        2. Teachers or staff open the "Flying note" application in their mobile phones <br/>
+        3. Log in by their own accounts</td>
   </tr>
   <tr>
     <td><strong>Normal flow:</strong></td>
-    <td>1.  Teachers or staff choose "Create note" bar <br/>
-        2.  The app will show two options : "text" or "record" to create note for them <br/>
+    <td>1. Teachers or staff choose "Create note" bar <br/>
+        2. The app will show two options : "text" or "record" to create note for them <br/>
         3  a. If "text" is chosen <br/>
         3  a  1. The app will show the format form <br/>
         3  a  2. They will fill title and content fields <br/>
         3  a  3. Click "submit" button to confirm their note ready to share <br/>
         3  b. If "record" is chosen <br/>
-        3  b  1. Press the "start" button to record their voice <br/>
-        3  b  2. Press that button again to stop recording <br/>
-        3  b  3. Click "submit" button to ready to delivery the note <br/>
-        4.  The app ask if they want to review before delivering their note <br/>
+        3  b  1. The app will show record voice panel <br/>
+        3  b  2. Press the "start" button to record their voice <br/>
+        3  b  3. Press that button again to stop recording <br/>
+        3  b  4. Click "submit" button to ready to delivery the note <br/>
+        4. The app ask if they want to review before delivering their note <br/>
         5  a. If "review" is chosen <br/>
         5  a  1. The app will show the content again <br/>
         5  b. If "confirm" is chosen <br/>
         5  b  1. The app will delivery their note <br/>
-   
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Exceptions</strong></td>
+    <td>1. If they go far away from the location when creating the note <br/>
+        -> They have to come back to near the location, return to step 1 of initial state <br/>
+        2. If the app is crash <br/>
+        -> They have to return to step 2 of initial state <br/>
+        3. If the internet connection is lost <br/>
+        -> System will return step 2 of normal flow and inform about internet connection problem <br/>
     </td>
   </tr>
  </table> 
