@@ -4,7 +4,9 @@
 
  The "Flying note" application in mobile phone provides the immediate messages or notes from teachers and staff to students, especially in hurry situations, for exmaple, teachers change classroom few hours before class starting or staff want to inform 
 
+* Main modules and their functions represented :
 
+<img src="http://users.metropolia.fi/~dieun/sa.jpg" alt="sysArchi"/>
 
 
 In this chapter, try to describe the overall view of the system:
