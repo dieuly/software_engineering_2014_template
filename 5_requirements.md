@@ -2,7 +2,7 @@
 
 * functional requirements (FR): a listing of details that are related to use cases
 
-- Choose.location : there is virtual wall in every location at school, teachers, staff or students have to be or nearby specific location within one meter radius from that location.
+ - Choose.location : there is virtual wall in every location at school, teachers, staff or students have to be or nearby specific location within one meter radius from that location.
 - Log in : to create or read the note, system wants to know who is the author or reader. If creators do nothing for 15 minutes, system will require them to log in again.
 - Create note : there will be two options for creator to choose : text note or voice note. If the message is long, creators may prefer recording voice to avoid wasting time. Or if the voice of creators is not so clear, they may prefer writting text note.
 - Create.text.title : the subject of note should be defined to capture attention and give clear overview for readers.
