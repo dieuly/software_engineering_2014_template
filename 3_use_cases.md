@@ -9,11 +9,11 @@
   </tr>
   <tr>
     <td>Teachers and staff</td>
-    <td>The main actors who create announcements or notes to give students immediate information in right time at right place in school</td>
+    <td>The main actors who create announcements or notes at specific location to give students immediate information in right time at right place in school.</td>
   </tr>
   <tr>
     <td>Students</td>
-    <td> The ones who receive message from teachers and staff whenever they go nearby locations which have created notes by the first group. They also can create notes, but only in the place where they are gave permission</td>
+    <td> The ones who receive message from teachers and staff whenever they go nearby locations which have created notes by the first group. They also can create notes, but only in the place where they are gave permission.</td>
   </tr>
  </table> 
 
@@ -124,7 +124,7 @@
   </tr>
   <tr>
     <td><strong>Initial state:</strong></td>
-    <td>1. Students reached the location have created note
+    <td>1. Students reached the location where note has created </td>
     </tr>
   <tr>
     <td><strong>Normal flow:</strong></td>
