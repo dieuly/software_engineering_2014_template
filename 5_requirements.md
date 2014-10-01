@@ -29,8 +29,10 @@
 
  - Usability:
  This system is mobile application so the interface is designed simple and concise. When users open the application, they will be reuired to log in immediatelly, this is very simple step that every one can do. As for creating and editing written note, it is easy like doing in word office. Or the other actions like save note or share note, users will not feel confused to do that. System will ask pop-up questions for users to choose review or confirm in the submiting step, so they are easy to choose between options. But for set up time, system will not ask users, so users may skip that part after they created their note. Also, the phone gap should be taken into consideration when building this app to avoid misdisplaying of interface on mobile screen.
+
  - Reliability:
  When readers open to read new note, system also show up the author and date of that note, because from the beginning, system required users to log in by their own accounts. If the note is for the whole class, then it should be created by the teacher, not by student from other class.
+
  - Price:
  The most expensive component for this system is building virtual walls in every location at school. Virtual wall plays the important role in receiving and sending signal from mobile phone.
  
