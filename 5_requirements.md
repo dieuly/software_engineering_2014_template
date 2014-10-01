@@ -1,5 +1,9 @@
 ### Chapter describing the functional and non-functional requirements
 
+* Functional Requirements:
+- 
+
+
 * functional requirements (FR): a listing of details that are related to use cases
 * FRs tells in detail what have to be considered when use cases are implemented in the system
   * Good functional requirements are traceable and verifiable: from the end product you can easily see does the FR in documentation exist in the software
