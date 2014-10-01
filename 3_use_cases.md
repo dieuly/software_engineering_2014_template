@@ -83,11 +83,12 @@
   </tr>
    <tr>
     <td><strong>Alternative Flow:</strong></td>
-    <td>
+    <td>1->2 as in normal flow <br/>
         3  b. If voice note option is chosen <br/>
         3  b  1. The app will show record voice panel <br/>
         3  b  2. Start recording their voice <br/>
         3  b  3. After finishing record, submit the voice note <br/>
+        4 as in normal flow <br/>
         5  b. If confirming option is chosen <br/>
         5  b  1. The app will delivery their note <br/>
     </td>
