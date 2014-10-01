@@ -69,26 +69,31 @@
         3. Log in by their own accounts.</td>
   </tr>
   <tr>
-    <td><strong>Normal flow:</strong></td>
+    <td><strong>Normal Flow:</strong></td>
     <td>1. Teachers or staff choose "Create note" bar <br/>
         2. The app will show two options : create a text note or voice note<br/>
         3  a. If text note option is chosen <br/>
         3  a  1. The app will show the format form <br/>
         3  a  2. They will fill title and content fields <br/>
         3  a  3. Submit their complete note <br/>
+        4. The app ask if they want to review before delivering their note <br/>
+        5  a. If reviewing option is chosen <br/>
+        5  a  1. The app will show the content again <br/>
+    </td>
+  </tr>
+   <tr>
+    <td><strong>Alternative Flow:</strong></td>
+    <td>
         3  b. If voice note option is chosen <br/>
         3  b  1. The app will show record voice panel <br/>
         3  b  2. Start recording their voice <br/>
         3  b  3. After finishing record, submit the voice note <br/>
-        4. The app ask if they want to review before delivering their note <br/>
-        5  a. If reviewing option is chosen <br/>
-        5  a  1. The app will show the content again <br/>
         5  b. If confirming option is chosen <br/>
         5  b  1. The app will delivery their note <br/>
     </td>
   </tr>
   <tr>
-    <td><strong>Exceptions</strong></td>
+    <td><strong>Exceptions:</strong></td>
     <td>1. If they go far away from the location when creating the note <br/>
         -> They have to come back to near the location, return to step 1 of initial state <br/>
         2. If the app is crashed <br/>
@@ -118,15 +123,15 @@
   </tr>
   <tr>
     <td><strong>Initial state:</strong></td>
-    <td>1. Students reached the location have created note <br/>
-        2. They will get notification of the new note in that location 
-  </tr>
+    <td>1. Students reached the location have created note
+    </tr>
   <tr>
     <td><strong>Normal flow:</strong></td>
-    <td>1. Open the "Fyling note" application in mobile phone  <br/>
-        2. Log in by their own accounts <br/>
-        3. The new note will be displayed in dashboard of the app <br/>
-        4. Read the new note <br/>
+    <td>1. Students will get notification of the new note in that location <br/>
+        2. Open the "Fyling note" application in mobile phone  <br/>
+        3. Log in by their own accounts <br/>
+        4. The new note will be displayed in dashboard of the app <br/>
+        5. Read the new note <br/>
     </td>
   </tr>
   <tr>
@@ -134,7 +139,7 @@
     <td>1. If students go far away from the location  <br/>
         -> Return to the step 1 of initial state <br/>
         2. If students do not get notification when they are nearby the location <br/>
-        -> Turn on the notification from the settings, then return to step 2 of initial state <br/>
+        -> Turn on the notification from the settings, then return to step 1 of normal flow <br/>
     </td>
   </tr>
    <tr>
