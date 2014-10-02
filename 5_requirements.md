@@ -19,7 +19,6 @@
 
 
 * non-functional requirements: requirements describing the system in general
-  * constraints related to system performance, reliability, security, accessibility, price, process model, etc.
 
  <strong>- Usability:</strong><br/>
  This system is mobile application so the interface is designed simple and concise. When users open the application, they will be reuired to log in immediatelly, this is very simple step that every one can do. As for creating and editing written note, it is easy like doing in word office. Or the other actions like save note or share note, users will not feel confused to do that. System will ask pop-up questions for users to choose review or confirm in the submiting step, so they are easy to choose between options. But for set up time, system will not ask users, so users may skip that part after they created their note. Also, the phone gap should be taken into consideration when building this app to avoid misdisplaying of interface on mobile screen.
