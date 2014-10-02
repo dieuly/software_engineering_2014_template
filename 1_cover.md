@@ -5,7 +5,7 @@ List here the following details:
 Flying Note
 * Team name:
 Windy
-* Team members:
+* Team members:<br/>
 Dieu Ly Nguyen <br/>
 Inae Park
 * Date:
