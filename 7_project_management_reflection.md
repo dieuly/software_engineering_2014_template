@@ -13,4 +13,4 @@
     Imagining use cases was easy, but writing the system architecture part was difficult because it was hard to connect main components with sub-components and their workflow. Also, we stayed off topic at the initial stage of this documentation. But, thanks to suggestion from teacher, we could complete this documentation quite successfully.
 
 * List here also estimation of hours spent in total and by each member in the project
-    It took around 8 hours for each person including the time we spent imaginizing and analyzing during the lecture time. 
+    It took around 10 hours in practice for each person, including the time we spent imaginizing and analyzing during the lectures. 
