@@ -14,7 +14,7 @@ Sometimes annoucements for hurry situations are received late, that affects the 
     * It is a note display in moblie phone wherever people go nearby specific location.
   
   * What it is for, what the users can do with it?
-    * It is used to display every note/annoucement
-    * Teachers, staff and students can be invovled in this system
+    * It is used to display every note/annoucement in specific location at school.
+    * Teachers, staff and students can be invovled in this system.
    
 
