@@ -6,7 +6,7 @@ Flying Note
 * Team name:
 Windy
 * Team members:
-Dieu Ly Nguyen
+Dieu Ly Nguyen <br/>
 Inae Park
 * Date:
 29.09.2014 11:32
