@@ -8,9 +8,3 @@
 
 <img src="http://users.metropolia.fi/~dieun/sa.jpg" alt="sysArchi"/>
 
-
-In this chapter, try to describe the overall view of the system:
-* Main components needed by the system to "serve" the end user
-  * A diagram with boxes is a good way for representing these
-* The idea here is to try to reason out the logical subcomponents of the system
-
