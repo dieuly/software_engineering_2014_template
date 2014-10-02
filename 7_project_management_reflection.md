@@ -1,7 +1,7 @@
 ### Project management, self reflection, last chapter
 
 * Sum up here your project <br/>
-    We've created this project to make a location specific app that notifies useful information for teachers and students
+    We've created this project to make an instant note app that notifies useful information for teachers and students whenever they go nearby specific locations. 
 
 * Was it successful, how was the communication <br/>
     It was quite successful. As for the communication, it was difficult to understand what each of us imagined of our app's UI design when we just explained it in words. It was easier when we made use of our drawings. 
