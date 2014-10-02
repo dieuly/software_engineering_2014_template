@@ -10,7 +10,7 @@
     We would start the project earlier than we did this time. It was not productive to do things at the last minute because of stress.
 
 * What were the easy parts in the project? What was hard?
-    It was easy to imagine in our head how we would like our app to be and how it would work, but putting it in practice by drawing specific UI design needed understanding and taking in considerations of real world limitations. 
+    Imagining use cases was easy, but writing the system architecture part was difficult because it was hard to connect main components with sub-components and their workflow. Also, we stayed off topic at the initial stage of this documentation. But, thanks to suggestion from teacher, we could complete this documentation quite successfully.
 
 * List here also estimation of hours spent in total and by each member in the project
     It took around 8 hours for each person including the time we spent imaginizing and analyzing during the lecture time. 
