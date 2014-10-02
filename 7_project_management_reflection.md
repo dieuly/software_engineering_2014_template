@@ -13,4 +13,4 @@
     It was easy to imagine in our head how we would like our app to be and how it would work, but putting it in practice by drawing specific UI design needed understanding and taking in considerations of real world limitations. 
 
 * List here also estimation of hours spent in total and by each member in the project
-    Around 8 hours for each person including the time we spent imaginizing and analyzing during the lecture time. 
+    It took around 8 hours for each person including the time we spent imaginizing and analyzing during the lecture time. 
