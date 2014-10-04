@@ -6,5 +6,7 @@
 
 * Main modules and their functions represented :
 
+<img src="http://users.metropolia.fi/~dieun/Sys.jpg" alt="sys"/>
+
 <img src="http://users.metropolia.fi/~dieun/sa.jpg" alt="sysArchi"/>
 
