@@ -8,7 +8,7 @@
 
 <img src="http://users.metropolia.fi/~dieun/Sys.jpg" alt="sys"/>
 
-   * Mobile phone : the application is installed in mobile phone where user can do all actions.
+   *** Mobile phone : the application is installed in mobile phone where user can do all actions.
    * Virtual Wall : used to locate mobile phone via wifi signal, it will make sure user can do actions within allowed location.
    * Authentication : request user's identification to access into system by requiring user to enter password.
    * Server : receive the data from user side and answer the user's request.
